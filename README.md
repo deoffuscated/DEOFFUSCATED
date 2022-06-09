@@ -33,6 +33,9 @@
 <a href="https://soundcloud.com/ulung-pangestu-70909832" target="_blank">
 <img src=https://img.shields.io/badge/soundcloud-F26F23?&style=for-the-badge&logo=soundcloud&logoColor=white alt=replit style="margin-bottom: 5px;" />
 </a>
+<a href="https://discordapp.com/users/313656180604010521" target="_blank">
+<img src=https://img.shields.io/badge/discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white alt=replit style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
