@@ -16,7 +16,7 @@
 <br/>  
 
 
-<h1 align="center"> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 </h1> 
+<h1 align="center"> 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 </h1> 
 <div align="center">
 <a href="https://www.facebook.com/deoffuscated" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -38,7 +38,7 @@
 
 <br/>  
 
-<h1 align="center"> 𝐑𝐞𝐜𝐞𝐧𝐭 𝐩𝐥𝐚𝐲𝐞𝐝 𝐨𝐧 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 </h1> 
+<h1 align="center"> 𝗥𝗲𝗰𝗲𝗻𝘁 𝗽𝗹𝗮𝘆𝗲𝗱 𝗺𝘂𝘀𝗶𝗰 </h1> 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2133ovc3ejlb5xynxl43mg6yy&cover_image=true&theme=default" /></div>  
 
 <br/>  
