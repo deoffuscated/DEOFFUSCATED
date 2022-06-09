@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=deoffuscated&&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=deoffuscated&&style=for-the-badge" align="center" height="50" />
 </div>  
   
 
