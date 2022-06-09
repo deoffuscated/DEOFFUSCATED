@@ -30,6 +30,9 @@
 <a href="https://replit.com/@deoffuscated" target="_blank">
 <img src=https://img.shields.io/badge/replit-%2324292e?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
 </a>
+<a href="[https://replit.com/@deoffuscated](https://soundcloud.com/ulung-pangestu-70909832" target="_blank">
+<img src=https://img.shields.io/badge/soundcloud-F26F23?&style=for-the-badge&logo=soundcloud&logoColor=white alt=replit style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
