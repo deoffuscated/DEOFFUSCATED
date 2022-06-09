@@ -6,7 +6,7 @@
 <br/>  
 
 
-<h1 align="center"> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭 </h1>
+<h1 align="center"> 𝗚𝗶𝘁𝗵𝘂𝗯 𝘀𝘁𝗮𝘁 </h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deoffuscated&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
