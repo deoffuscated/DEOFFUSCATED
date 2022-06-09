@@ -26,7 +26,10 @@
 </a>
 <a href="https://github.com/deoffuscated" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://replit.com/@deoffuscated" target="_blank">
+<img src=https://img.shields.io/badge/replit-%2324292e?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
